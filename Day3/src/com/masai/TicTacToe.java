@@ -80,8 +80,6 @@ public class TicTacToe {
     }
 
 
-// Example usage:
-
 public static void main(String[] args) {
     TicTacToe game = new TicTacToe();
     Scanner sc = new Scanner(System.in);
