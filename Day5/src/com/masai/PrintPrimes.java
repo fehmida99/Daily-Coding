@@ -31,7 +31,7 @@ public class PrintPrimes{
 
     public static void main(String[] args) {
     	PrintPrimes generator = new PrintPrimes();
-        int N = 20; 
+        int N = -5; 
         generator.printFirstNPrimes(N);
     }
 }
