@@ -24,7 +24,7 @@ public class DecimalToBinary {
     }
 
     public static void main(String[] args) {
-        String decimalString = "181"; 
+        String decimalString = "aa"; 
         try {
             String binaryString = decimalToBinary(decimalString);
             System.out.println("Binary representation of " + decimalString + " is: " + binaryString);
