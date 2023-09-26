@@ -1,21 +1,23 @@
 package com.masai;
 
-class Shape {
-    void draw() {
-        System.out.println("Drawing a shape");
-    }
-}
+public class Polymorphism {
 
-class Circle extends Shape {
-    @Override
-    void draw() {
-        System.out.println("Drawing a circle");
-    }
-}
+	public void print(int age, String name) {
+		System.out.println("Age is " + age + " Name is " + name);
+	}
 
-class Square extends Shape {
-    @Override
-    void draw() {
-        System.out.println("Drawing a square");
-    }
+	public void print(int age) {
+		System.out.println("Age is " + age);
+	}
+
+	public void print(String name) {
+		System.out.println("Name is " + name);
+	}
+
+	public static void main(String[] args) {
+		Polymorphism pm = new Polymorphism();
+		pm.print(24, "Fehmida");
+		pm.print(22);
+		pm.print("Hina");
+	}
 }
