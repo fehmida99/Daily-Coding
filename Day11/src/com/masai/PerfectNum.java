@@ -1,5 +1,6 @@
 package com.masai;
 
+
 public class PerfectNum {
     public static boolean isPerfectNumber(int num) {
         if (num <= 0) {
@@ -15,6 +16,7 @@ public class PerfectNum {
         
         return sum == num;
     }
+    
     
     public static void main(String[] args) {
         int number = 28;  

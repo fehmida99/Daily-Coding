@@ -1,0 +1,40 @@
+Sure! Here are 30 Java coding questions covering a variety of topics such as palindrome detection, prime number checking, arrays, strings, recursion, sorting, and more. Each question comes with a brief description to guide you:
+
+1. Palindrome Checker: Write a function to check if a given string is a palindrome.
+2. Prime Number Checker: Write a function to check if a given number is prime.
+3. Fibonacci Series: Write a function to print the first n numbers of the Fibonacci series.
+4. Factorial: Write a function to calculate the factorial of a given number.
+5. Array Sum: Write a function to calculate the sum of elements in an integer array.
+6. Array Max and Min: Write a function to find the maximum and minimum values in an integer array.
+7. Reverse Array: Write a function to reverse an array of integers in place.
+8. Anagram Checker: Write a function to check if two strings are anagrams.
+9. Count Vowels and Consonants: Write a function to count the number of vowels and consonants in a given string.
+10. Duplicate Elements: Write a function to find and remove duplicates from an integer array.
+11. Missing Number: Given an array containing n-1 distinct numbers from 1 to n, find the missing number in the sequence.
+12. Matrix Transpose: Write a function to find the transpose of a given matrix.
+13. Binary Search: Implement binary search to find an element in a sorted array.
+14. Bubble Sort: Implement the bubble sort algorithm to sort an array of integers.
+15. Selection Sort: Implement the selection sort algorithm to sort an array of integers.
+16. Merge Sort: Implement the merge sort algorithm to sort an array of integers.
+17. Find Nth Largest Element: Write a function to find the Nth largest element in an array of integers.
+18. Longest Common Prefix: Write a function to find the longest common prefix among an array of strings.
+19. Power of a Number: Write a function to calculate the power of a given number (x^y).
+20. Armstrong Number: Write a function to check if a given number is an Armstrong number.
+21. Print Prime Numbers in a Range: Write a function to print all prime numbers within a given range.
+22. Decimal to Binary: Write a function to convert a decimal number to binary representation.
+23. Binary to Decimal: Write a function to convert a binary number to decimal representation.
+24. Reverse a String: Write a function to reverse a given string without using any library function.
+25. Permutations of a String: Write a function to find all permutations of a given string.
+26. Count Inversions: Write a function to count the number of inversions in an array of integers.
+27. Longest Increasing Subsequence: Write a function to find the length of the longest increasing subsequence in an array.
+28. Parentheses Checker: Write a function to check if the parentheses in a given expression are balanced.
+29. Linked List: Implement a basic singly linked list with insert, delete, and search operations.
+30. Tower of Hanoi: Write a function to solve the Tower of Hanoi puzzle for a given number of disks.
+
+These questions should provide you with a good mix of challenges to practice your Java coding skills. Happy coding! If you need any further explanations or solutions, feel free to ask.
+
+
+
+
+
+

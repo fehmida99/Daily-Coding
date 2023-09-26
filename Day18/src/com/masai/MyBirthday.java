@@ -2,8 +2,8 @@ package com.masai;
 
 public class MyBirthday {
     public static void main(String[] args) {
-        String yourName = "Fehmida"; // Replace with your name
-        int yourAge = 24; // Replace with your age
+        String yourName = "Fehmida"; 
+        int yourAge = 24; 
         
         System.out.println("Happy Birthday, " + yourName + "!");
         System.out.println("Wishing you a fantastic day filled with joy and laughter.");

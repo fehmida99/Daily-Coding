@@ -5,6 +5,7 @@ import java.util.*;
 public class RomanToInteger {
     public static int romanToInt(String s) {
         Map<Character, Integer> romanMap = new HashMap<>();
+        
         romanMap.put('I', 1);
         romanMap.put('V', 5);
         romanMap.put('X', 10);
